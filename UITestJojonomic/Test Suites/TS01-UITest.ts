@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01-UITest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c9571cdd-fb80-47c9-9199-ee0e1f0267cf</testSuiteGuid>
+   <testCaseLink>
+      <guid>11e92851-9a6c-44b6-8e5a-8623990b2cad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UITest</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>eb08c6f4-f928-4736-a4b9-05132b4d6178</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataFile01</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>eb08c6f4-f928-4736-a4b9-05132b4d6178</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Search</value>
+         <variableId>297d1865-fdbc-4646-9f58-9111871a2a84</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb08c6f4-f928-4736-a4b9-05132b4d6178</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Suburb</value>
+         <variableId>f6458789-e231-44ff-88ba-00e995456d78</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eb08c6f4-f928-4736-a4b9-05132b4d6178</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ServiceCenter</value>
+         <variableId>4815fc20-0f4f-47d4-9098-7100e7e9ebb3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

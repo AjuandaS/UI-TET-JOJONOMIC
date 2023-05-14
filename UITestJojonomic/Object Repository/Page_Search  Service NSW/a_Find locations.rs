@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Find locations</name>
+   <tag></tag>
+   <elementGuidId>345820ca-7a34-4dd9-9b9b-d5812cffaf1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='global-header']/div/header/div[2]/div/nav/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2a7d8d65-fd32-4fbb-9a43-3cefff75e63a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.service.nsw.gov.au/service-centre</value>
+      <webElementGuid>b47cfa9c-0c89-40b8-8201-5e020f9107fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NavLink__link-M-HSy9SYcc</value>
+      <webElementGuid>b58a47bd-798c-462b-aaaa-f4f1b6376551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find locations</value>
+      <webElementGuid>c36a2bab-ff6b-4db7-9ad1-19f1294693ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-header&quot;)/div[1]/header[@class=&quot;GlobalHeader-0xZ4-w1g3x&quot;]/div[@class=&quot;GlobalHeader__main-ORzg9dkzx0&quot;]/div[@class=&quot;Container-f-hqve2slU GlobalHeader__mainContainer-jduh-JKthi&quot;]/nav[@class=&quot;MainNav-AYWEJogDLj&quot;]/ul[@class=&quot;MainNav__list-peZtddYtxn&quot;]/li[@class=&quot;NavLink__listItem-VYVwsaNaTG&quot;]/a[@class=&quot;NavLink__link-M-HSy9SYcc&quot;]</value>
+      <webElementGuid>438ff3d6-1a50-4720-a355-c0f22fd848e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='global-header']/div/header/div[2]/div/nav/ul/li[4]/a</value>
+      <webElementGuid>5bedf41b-6f31-4d06-ad45-1374eabec5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Find locations')]</value>
+      <webElementGuid>6640f274-9fe0-4ce4-a84e-b35345482f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business'])[1]/following::a[1]</value>
+      <webElementGuid>013e70a1-9f7e-4f4b-b0c6-88d26bfad448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse services'])[1]/following::a[2]</value>
+      <webElementGuid>3068a61a-966c-40d9-a197-292bc6145913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[1]</value>
+      <webElementGuid>73b58fec-c16d-4bb2-ba9d-a82e56c06058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse services'])[2]/preceding::a[2]</value>
+      <webElementGuid>a8455f4a-cbe5-4f81-aa8d-c3880403e3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find locations']/parent::*</value>
+      <webElementGuid>bc804ddc-2f72-44da-b43a-709e37601e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.service.nsw.gov.au/service-centre')]</value>
+      <webElementGuid>3aeccc6f-25d1-4bdb-bb78-8e5b4a77add8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>9e830470-b8c0-4df1-8400-a94ec2434a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.service.nsw.gov.au/service-centre' and (text() = 'Find locations' or . = 'Find locations')]</value>
+      <webElementGuid>e48a90f3-a289-42c2-b8cb-7113730be247</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

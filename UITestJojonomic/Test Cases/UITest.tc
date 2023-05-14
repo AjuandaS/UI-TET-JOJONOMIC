@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UITest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d2bfa9f-a33d-49e1-89f9-0c84ef4829bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>297d1865-fdbc-4646-9f58-9111871a2a84</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6458789-e231-44ff-88ba-00e995456d78</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4815fc20-0f4f-47d4-9098-7100e7e9ebb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>297d1865-fdbc-4646-9f58-9111871a2a84</id>
+      <masked>false</masked>
+      <name>Search</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6458789-e231-44ff-88ba-00e995456d78</id>
+      <masked>false</masked>
+      <name>Suburb</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4815fc20-0f4f-47d4-9098-7100e7e9ebb3</id>
+      <masked>false</masked>
+      <name>ServiceCenter</name>
+   </variable>
+</TestCaseEntity>
